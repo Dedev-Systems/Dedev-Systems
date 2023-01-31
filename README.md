@@ -3,7 +3,7 @@
 <h4 align="center"></h4>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=dedev-systems&color=dcc300">
+  <img align="center" src="https://komarev.com/ghpvc/?username=dedev-systems&color=007cc3">
 </p>
 
 <h2 align="center">My Stats</h2>
